@@ -1,8 +1,10 @@
-# Küsitluse rakendus- Egert Piksar
+# Küsitluse rakendus
+Egert Piksar
 
 ## Meteor
 
 https://www.meteor.com
+
 https://www.scotch.io/tutorials
 
 ## Installation
